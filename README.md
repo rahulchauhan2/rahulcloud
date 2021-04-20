@@ -1,4 +1,4 @@
-# RahulCloud used from theme SOLID
+# RahulCloud 
 
 A landing page template.
 
